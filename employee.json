@@ -1,0 +1,14 @@
+{
+    "name": "Rahul",
+    "designation": "manager",
+    "dateOfBirth": "2000-05-22",
+    "salary": "80000",
+    "phone": "9898989898",
+    "email": "hi@gmail.com",
+    "address": "A-1",
+    "city": "Delhi",
+    "state": "Delhi",
+    "emergencyName": "Rohan",
+    "emergencyPhone": "9999988888",
+    "relationship": "Brother"
+}
